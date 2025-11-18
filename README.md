@@ -11,56 +11,43 @@ Business graduate turned software engineer with a passion for building scalable 
 ### 🎨 CrowVault IDE
 **Online Collaborative Development Environment**
 - 🔧 **Tech Stack:** React, TypeScript, Monaco Editor, Node.js, WebSocket, AWS
-- 💡 **Highlights:**
-  - Real-time collaborative code editing with conflict resolution
-  - Multi-language support (15+ programming languages)
+- 💡 **Key Features:**
+  - Real-time collaborative code editing
+  - Multi-language support
   - Cloud-based project management
   - Live code execution and preview
-- 📊 **Impact:** Supporting 1000+ concurrent users with 99.9% uptime
-- 🔒 *Private Repository - Under Active Development*
+- 🔒 *Private Repository*
 
-### 📞 Talky - VoIP Communication Platform
-**Enterprise-Grade Telephony Solution**
+### 📞 Talky
+**VoIP Communication Platform**
 - 🔧 **Tech Stack:** FreeSWITCH, Kamailio, React, Node.js, WebRTC
-- 💡 **Highlights:**
+- 💡 **Key Features:**
   - Virtual phone numbers with SMS/voice capabilities
   - SIP trunking and call routing
-  - Real-time call analytics dashboard
+  - Real-time call analytics
   - WebRTC-based browser calling
-- 📊 **Impact:** Processing 10,000+ calls/month
-- 🔒 *Private Repository - Production System*
+- 🌐 **Website:** [talky.ca](https://talky.ca)
+- 🔒 *Private Repository*
 
-### 🛒 Shopscribe
-**E-Commerce Analytics & Management Platform**
-- 🔧 **Tech Stack:** Next.js, TypeScript, Serverless, PostgreSQL
-- 💡 **Highlights:**
-  - Shopify integration for inventory management
-  - Real-time sales analytics and reporting
-  - Automated order processing
-  - Customer behavior tracking
-- 📊 **Impact:** Managing $100K+ in monthly transactions
-- 🔒 *Private Repository - Commercial Product*
+### 📱 Mobily
+**Mobile Communication Platform**
+- 🔧 **Tech Stack:** React, Node.js, AWS
+- 💡 **Key Features:**
+  - Mobile-first communication solution
+  - Real-time messaging and notifications
+  - Scalable cloud infrastructure
+- 🌐 **Website:** [mobily.ca](https://mobily.ca)
+- 🔒 *Private Repository*
 
-### 📧 WorkMail
-**Serverless Email Service Platform**
-- 🔧 **Tech Stack:** AWS Lambda, SES, React, DynamoDB
-- 💡 **Highlights:**
-  - Serverless architecture for cost optimization
-  - Custom domain email handling
-  - Advanced spam filtering
-  - Email template management
-- 📊 **Impact:** Delivering 50,000+ emails/month
-- 🔒 *Private Repository - Client Project*
-
-### 📝 WorkSign
-**Digital Signature & Document Management**
-- 🔧 **Tech Stack:** React, Node.js, PDF.js, AWS S3
-- 💡 **Highlights:**
-  - Legally binding electronic signatures
-  - Document version control
-  - Audit trail and compliance tracking
-  - Multi-party signing workflows
-- 🔒 *Private Repository - Enterprise Solution*
+### 💼 TechSynergy
+**Technology Solutions Platform**
+- 🔧 **Tech Stack:** React, TypeScript, Node.js, AWS
+- 💡 **Key Features:**
+  - Enterprise technology solutions
+  - Custom application development
+  - Cloud infrastructure management
+- 🌐 **Website:** [techsynergy.ca](https://techsynergy.ca)
+- 🔒 *Private Repository*
 
 ---
 
@@ -98,7 +85,7 @@ Business graduate turned software engineer with a passion for building scalable 
 ## 🎯 What I'm Working On
 
 - 🔨 Building **CrowVault IDE** - next-generation cloud development environment
-- 📞 Scaling **Talky** VoIP infrastructure to support 10,000+ concurrent calls
+- 📞 Scaling **Talky** VoIP infrastructure
 - 🎵 Contributing to **TamilLyrics** - cultural preservation through technology
 - 🌱 Learning advanced Kubernetes and microservices architecture
 
@@ -116,29 +103,31 @@ Business graduate turned software engineer with a passion for building scalable 
 
 ## 🏆 Key Achievements
 
-- 🚀 Built and deployed **15+ production SaaS applications**
-- ⚡ Optimized application performance reducing load times by **60%**
-- 📈 Scaled systems to support **50,000+ monthly active users**
+- 🚀 Built and deployed multiple production SaaS applications
+- ⚡ Specialized in VoIP and real-time communication systems
+- 📈 Experience with scalable cloud infrastructure
 - 🎓 Business degree combined with self-taught development expertise
-- 🌍 Working with clients across **North America**
+- 🌍 Based in Toronto, Canada
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🌐 Website: [raj.it.com](https://raj.it.com)
+- 🌐 Portfolio: [raj.it.com](https://raj.it.com)
+- 📞 Talky: [talky.ca](https://talky.ca)
+- 📱 Mobily: [mobily.ca](https://mobily.ca)
+- 💼 TechSynergy: [techsynergy.ca](https://techsynergy.ca)
 - 💼 LinkedIn: [linkedin.com/in/rajwaran](https://linkedin.com/in/rajwaran)
-- 📧 Email: Available on website
 - 📍 Location: Toronto, Canada
 
 ---
 
-## 💬 Fun Facts
+## 💬 About Me
 
 - 🎵 Building platforms for Tamil music and cultural preservation
 - 📚 Business graduate who fell in love with coding
 - 🌐 Passionate about VoIP and real-time communication systems
-- 🛠️ Always tinkering with new technologies and frameworks
+- 🛠️ Always exploring new technologies and frameworks
 
 ---
 
@@ -146,7 +135,7 @@ Business graduate turned software engineer with a passion for building scalable 
 
 My work primarily involves commercial projects and client applications, which are kept private for confidentiality.
 
-**Want to discuss my projects or see demos?** Feel free to reach out through LinkedIn or my website!
+**Want to discuss my projects or collaborate?** Feel free to reach out through LinkedIn or my website!
 
 ---
 
