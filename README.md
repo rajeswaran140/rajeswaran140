@@ -77,7 +77,7 @@ Building platforms for Tamil music and cultural preservation.
 ## 📫 Connect
 
 - 🦅 CrowVault: [crowvault.ai](https://crowvault.ai)
-- 🌐 Portfolio: [raj.it.com](https://raj.it.com)
+- 🌐 Portfolio: [raj.techsynergy.ca](https://raj.techsynergy.ca/)
 - 💼 LinkedIn: [linkedin.com/in/rajwaran](https://linkedin.com/in/rajwaran)
 - 📍 Toronto, Canada
 
